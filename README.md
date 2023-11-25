@@ -17,7 +17,7 @@
 
 ### ОС
 
-Artix Linux (OpenRC) + Sway
+* Artix Linux (OpenRC) + Sway
 
 
 ## Мой стек
